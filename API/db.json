@@ -1,0 +1,95 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Brown paperbag waist pencil skirt",
+        "category": "Skirts",
+        "price": 60.00,
+        "color": "#B6724C",
+        "img": "https://portotheme.com/html/molla/assets/images/products/product-4.jpg",
+        "size":"XL",
+        "status": "New"
+      },
+      {
+        "id": 2,
+        "name": "Dark yellow lace cut out swing dress",
+        "category": "Dresses",
+        "price":84.00,
+        "color": "#D3AD3B",
+        "img": "https://portotheme.com/html/molla/assets/images/products/product-5.jpg",
+        "size":"XS",
+        "status": null
+      },
+      {
+        "id": 3,
+        "name": "Khaki utility boiler jumpsuit",
+        "category": "Jackets",
+        "price": 120.00,
+        "color": "#84795F",
+        "img": "https://portotheme.com/html/molla/assets/images/products/product-6.jpg",
+        "size":"M",
+        "status": "Out of Stock"
+      },
+      {
+        "id": 4,
+        "name": "Blue utility pinafore denim dress",
+        "category": "Jeans",
+        "price": 76.00,
+        "color": "#6B8898",
+        "img": "https://portotheme.com/html/molla/assets/images/products/product-7.jpg",
+        "size":"S",
+        "status": null
+      },
+      {
+        "id": 5,
+        "name": "Beige knitted elastic runner shoes",
+        "category": "Shoes",
+        "price": 84.00,
+        "color": "#D8C2A7",
+        "img": "https://portotheme.com/html/molla/assets/images/products/product-8.jpg",
+        "size":"XL",
+        "status": "New"
+      },
+      {
+        "id": 6,
+        "name": "Orange saddle lock front chain cross body bag",
+        "category": "Bags",
+        "price": 84.00,
+        "color": "#DE6320",
+        "img": "https://portotheme.com/html/molla/assets/images/products/product-9.jpg",
+        "size":"L",
+        "status": null
+      },
+      {
+        "id": 7,
+        "name": "Light brown studded Wide fit wedges",
+        "category": "Shoes",
+        "price": 110.00,
+        "color": "#955641",
+        "img": "https://portotheme.com/html/molla/assets/images/products/product-11.jpg",
+        "size":"XXL",
+        "status": "Top"
+      },
+      {
+        "id": 8,
+        "name": "Yellow button front tea top",
+        "category": "Jumpers",
+        "price": 56.00,
+        "color": "#D3AD3B",
+        "img": "https://portotheme.com/html/molla/assets/images/products/product-10.jpg",
+        "size":"S",
+        "status": null
+      },
+      {
+        "id": 9,
+        "name": "Black soft RI weekend travel bag",
+        "category": "Bags",
+        "price": 68.00,
+        "color": "#362D32",
+        "img": "https://portotheme.com/html/molla/assets/images/products/product-12.jpg",
+        "size":"M",
+        "status": null
+      }
+    ]
+  }
+  

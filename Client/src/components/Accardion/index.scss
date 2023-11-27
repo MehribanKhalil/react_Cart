@@ -1,0 +1,28 @@
+#accardion{
+    border-top: 1px solid var( --gray-color);
+
+    .accardion_title{
+        display: flex;
+        justify-content:space-between;
+        padding: 15px 10px 10px 10px;
+        background-color: var(--gray-color);
+        cursor: pointer;
+
+        h4{
+            font-weight: 400;
+            font-size: 18px;
+        }
+    }
+    .accardion_content{
+        overflow: hidden;
+        &.active{
+            max-height: 750px;
+        transition: all 1.5s ease;
+
+        }
+        &.close{
+            max-height: 0;
+            transition: all .5s ease;
+        }
+    }
+}

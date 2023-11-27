@@ -1,6 +1,6 @@
 import React from 'react'
 import BasketCart from '../BasketCard'
-import './index.css'
+import './index.scss'
 const Basket = () => {
   return (
     <div className='basket'>
